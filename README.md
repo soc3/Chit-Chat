@@ -12,9 +12,11 @@ Advanced features <br>
 1. Show notifications for count of unread messages/group invites. 2. Showing online users.(or showing current status for users(offline/online) 3. Spell-Check.
 
 <br>
-4.Support for emoticons. <br>
+4.Support for emoticons. 
+<br>
 5. Support for sharing a long post when the message-content is large.(Great for long-form content, like project plans or documentation).(Whenever user wants to post a long message a new text window will pop up and the user can write his message with basic text-formatting in that and post it).
 <br>
+
 Support for sharing code or text snippet. Snippet should consists of title, text-type(Plaintext,C,C++,JAVA,HTML,CSS,javascript) and code formatting accordingly.(can use RSyntaxTextArea library)
 <br>
 Messages(already read) can be seen without internet connectivity(Local Cache for storing data)
