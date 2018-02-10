@@ -2,24 +2,24 @@ Description:
 
 A type of messaging software(or application) which provides users to interact and share important resources with each other and to form groups for a particular purpose.(inspired from slack messaging app).
 <br>
-Basic features 
+Basic features <br>
 ● Direct messaging:(Single chat) 
     a. Register/Login for each user. b. Profile page for each user (profile status, username , profile photo, company, contacts etc.) c. Upload and download a file/image from local system. d. Mark priority of a message. e. Search for users to start a conversation or view profile.
    <br>
 ● Channel messaging:(Group chat) a. Support for creating a new group. b. Support for sending invites to other users to join a particular group. c. Searching groups on the app. d. Sending request to join the group. Creator will accept the request. e. Support for viewing member list in a particular group. f. Support all use cases of Direct messaging.
 
-Advanced features 
+Advanced features <br>
 1. Show notifications for count of unread messages/group invites. 2. Showing online users.(or showing current status for users(offline/online) 3. Spell-Check.
 
 <br>
-Support for emoticons.
-Support for sharing a long post when the message-content is large.(Great for long-form content, like project plans or documentation).(Whenever user wants to post a long message a new text window will pop up and the user can write his message with basic text-formatting in that and post it).
+4.Support for emoticons. <br>
+5. Support for sharing a long post when the message-content is large.(Great for long-form content, like project plans or documentation).(Whenever user wants to post a long message a new text window will pop up and the user can write his message with basic text-formatting in that and post it).
 <br>
 Support for sharing code or text snippet. Snippet should consists of title, text-type(Plaintext,C,C++,JAVA,HTML,CSS,javascript) and code formatting accordingly.(can use RSyntaxTextArea library)
 <br>
 Messages(already read) can be seen without internet connectivity(Local Cache for storing data)
 <br>
-Extra Features Added: 
+Extra Features Added: <br>
 1. Friends Recommendation to users on the basis of their connected component in graph network of users.
 
 [![Build Status](https://travis-ci.org/bobbylight/RSyntaxTextArea.svg?branch=master)](https://travis-ci.org/bobbylight/RSyntaxTextArea)
