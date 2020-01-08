@@ -27,7 +27,6 @@ import java.util.HashMap;
 import java.util.Map;
 import java.util.logging.Level;
 import java.util.logging.Logger;
-import javafx.util.Pair;
 import javax.imageio.ImageIO;
 import javax.swing.JCheckBox;
 import groupon.ObserverPattern.Subject;
@@ -35,6 +34,7 @@ import groupon.user.GraphUse;
 import groupon.user.UserNetwork;
 import java.io.FileInputStream;
 import java.io.FileNotFoundException;
+import javafx.util.Pair; 
 
 /**
  *
